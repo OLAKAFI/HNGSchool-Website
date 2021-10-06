@@ -1,0 +1,28 @@
+*,body,html{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+.section1{
+    background-color: rgb(169, 117, 182);
+}
+
+
+.bd-navbar {
+    background-color: rgb(173, 21, 211);
+    padding: 0.75rem 0px;
+}
+
+.section1-text{
+    color: rgb(173, 21, 211);
+}
+
+header{
+    
+}
+
+
+
+
